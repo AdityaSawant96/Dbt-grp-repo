@@ -9,6 +9,9 @@ public class ArthmaticOperation {
 	a=b;
 	b=c;
 	System.out.println("value of a and b After Swapping :-"+a+" ,"+b);
+	System.out.println(a+b);
+	System.out.println(a-b+c);
+
 
 		
 		
